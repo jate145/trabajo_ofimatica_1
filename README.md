@@ -1,7 +1,7 @@
 # Trabajo ofimatica 1
 
 
-## Equipo: Los gallinas y Yonni
+## Equipo: Las gallinas y Yonni
 ## Integrantes: 
 ### Jorge Atencio: Scrum Master 
 ### Jose Luis Alvarez: Dev Team
