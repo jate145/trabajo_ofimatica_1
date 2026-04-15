@@ -3,12 +3,14 @@
 
 ## Integrantes
 
-| Nombre                     | Rol            | Usuario de GitHub | Correo                     |
-|---------------------------|----------------|-------------------|----------------------------|
-| Jorge Atencio             | Scrum Master   | @jate145          | jorgefa520@gmail.com       |
-| Jose Luis Alvarez         | Dev Team       | @JoseAlva31       | josealv22@outlook.com      |
-| Martins Yonathan David    | Dev Team       | @yonni-oss        | yonmartins71@gmail.com     |
-| Enzo Gabriel Maczemchuk   | Product Owner  | @EnzoMaczemchuk   | enzogabrielmac@gmail.com   |
+## Integrantes
+
+| Nombre                     | Rol            | tarea                                    | Usuario de GitHub |
+|---------------------------|----------------|-------------------------------------------|-------------------|
+| Jorge Atencio             | Scrum Master   | Gestiona el repositorio y accesos         | @jate145          |
+| Jose Luis Alvarez         | Dev Team       | Investiga y redacta contenido técnico     | @JoseAlva31       |
+| Martins Yonathan David    | Dev Team       | Investiga y redacta contenido técnico     | @yonni-oss        |
+| Enzo Gabriel Maczemchuk   | Product Owner  | Organiza estructura y formato             | @EnzoMaczemchuk   |
 
 ## Carpeta Drive: https://drive.google.com/drive/folders/1DyJZXRln5-kr8RT1v8nvS1TPdXhOt695?usp=sharing
 
