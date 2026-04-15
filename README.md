@@ -1,12 +1,14 @@
 # Trabajo ofimatica 1
 
 
-## Equipo: Las gallinas y Yonni
-## Integrantes: 
-### Jorge Atencio @jate145: Scrum Master 
-### Jose Luis Alvarez @JoseAlva31: Dev Team
-### Martins Yonathan David @yonni-oss: Dev Team
-### Enzo Gabriel Maczemchuk @EnzoMaczemchuk: Product Owner
+## Integrantes
+
+| Nombre                     | Rol            | Usuario de GitHub |
+|---------------------------|----------------|-------------------|
+| Jorge Atencio             | Scrum Master   | @jate145          |
+| Jose Luis Alvarez         | Dev Team       | @JoseAlva31       |
+| Martins Yonathan David    | Dev Team       | @yonni-oss        |
+| Enzo Gabriel Maczemchuk   | Product Owner  | @EnzoMaczemchuk   |
 
 ## Carpeta Drive: https://drive.google.com/drive/folders/1DyJZXRln5-kr8RT1v8nvS1TPdXhOt695?usp=sharing
 
