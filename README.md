@@ -3,10 +3,10 @@
 
 ## Equipo: Las gallinas y Yonni
 ## Integrantes: 
-### Jorge Atencio: Scrum Master 
-### Jose Luis Alvarez: Dev Team
-### Martins Yonathan David: Dev Team
-### Enzo Gabriel Maczemchuk: Product Owner
+### Jorge Atencio @jate145: Scrum Master 
+### Jose Luis Alvarez @JoseAlva31: Dev Team
+### Martins Yonathan David @yonni-oss: Dev Team
+### Enzo Gabriel Maczemchuk @EnzoMaczemchuk: Product Owner
 
 ## Carpeta Drive: https://drive.google.com/drive/folders/1DyJZXRln5-kr8RT1v8nvS1TPdXhOt695
 
