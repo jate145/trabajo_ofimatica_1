@@ -8,6 +8,6 @@
 ### Martins Yonathan David @yonni-oss: Dev Team
 ### Enzo Gabriel Maczemchuk @EnzoMaczemchuk: Product Owner
 
-## Carpeta Drive: https://drive.google.com/drive/folders/1DyJZXRln5-kr8RT1v8nvS1TPdXhOt695
+## Carpeta Drive: https://drive.google.com/drive/folders/1DyJZXRln5-kr8RT1v8nvS1TPdXhOt695?usp=sharing
 
 ## Para hacer este trabajo usamos github, google drive y word
