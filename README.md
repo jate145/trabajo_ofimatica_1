@@ -3,7 +3,6 @@
 ## Grupo: Los gallinas y Yonni
 
 ## Integrantes
-
 | Nombre                     | Rol            | tarea                                    | Usuario de GitHub |
 |---------------------------|----------------|-------------------------------------------|-------------------|
 | Jorge Atencio             | Scrum Master   | Gestiona el repositorio y accesos         | @jate145          |
